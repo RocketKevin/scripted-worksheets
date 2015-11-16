@@ -3,10 +3,18 @@
 ####Topic: JavaScript
 
 * Explain what a function is. Give an example.
+//A relationship or expression involving more than one variables.
+ Ex = console.log()
 * Explain what a parameter is. Give an example.
+Parameter used in a subroutine to refer to one of the pieces of data provided as input to the subroutine.
+Ex = add(x,y)
 * When we want to look up what a word means, we go to a dictionary. Similarly, when we want to look up what a standard JavaScript function does, we look at _______________.
+Google...... Google knows everything!!!!
 * In the following piece of code, what variable(s) are in scope at Point A, Point B, and 
 Point C?
+Point A = Input
+Point B = 
+Point C = End
 
 ```
 var hooligan = true;
@@ -24,6 +32,7 @@ function rocks() {
 // Point C
 ```
 * What does the following code print?
+
 
 ```
 var x = 7;
